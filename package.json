@@ -1,6 +1,6 @@
 {
-  "name": "how_to_npm_tutorial",
-  "version": "0.0.2",
+  "name": "@samuel_spector/how_to_npm_tutorial",
+  "version": "0.0.3",
   "description": "Running the how-to-npm tutorial",
   "main": "how_to_npm_tut",
   "scripts": {
