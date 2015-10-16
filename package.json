@@ -10,6 +10,17 @@
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamSpector/how_to_npm_tut.git"
+  },
+  "keywords": [
+    "how_to_npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/SamSpector/how_to_npm_tut/issues"
+  },
+  "homepage": "https://github.com/SamSpector/how_to_npm_tut#readme"
 }
-
