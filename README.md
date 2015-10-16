@@ -1,2 +1,2 @@
 # how_to_npm_tut
-bit of words
+how-to-npm working repo
