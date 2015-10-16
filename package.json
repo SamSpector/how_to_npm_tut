@@ -1,12 +1,12 @@
 {
   "name": "@samuel_spector/how_to_npm_tutorial",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Running the how-to-npm tutorial",
   "main": "how_to_npm_tut",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "sas",
+  "author": "samuel_spector",
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
